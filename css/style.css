@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+    color: aliceblue;
+    font-size: 70px;
+}
+body {
+    background-color: #2d3238;
+}
+.avant_page {
+    background-color: #212428;
+}
+.img_c {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
